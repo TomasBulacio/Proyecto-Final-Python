@@ -1,32 +1,30 @@
-# Dow Jones Index — Análisis Exploratorio de Datos
+# Dow Jones Index — Análisis Exploratorio de Datos (EDA)
 
-Análisis exploratorio de las 30 acciones que componían el Dow Jones Industrial Average durante el primer y segundo trimestre de 2011.
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-white?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter)
 
-El objetivo del proyecto es aplicar técnicas de manipulación de datos, análisis estadístico y visualización con Python, trabajando sobre un dataset financiero real.
+Análisis exploratorio de las 30 acciones que componían el **Dow Jones Industrial Average** durante el primer y segundo trimestre de 2011. 
 
----
+El objetivo principal de este proyecto es aplicar técnicas de manipulación de datos, análisis estadístico y visualización con Python, trabajando sobre un dataset financiero real para extraer insights de mercado.
 
 ## Dataset
 
-**Fuente:** [UCI Machine Learning Repository — Dow Jones Index](https://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index)
+* **Fuente:** [UCI Machine Learning Repository — Dow Jones Index](https://archive.ics.uci.edu/ml/datasets/Dow+Jones+Index)
+* **Descripción:** El dataset contiene registros semanales del precio de cierre, apertura, máximos, mínimos y volumen de 30 empresas listadas en el Dow Jones durante 2011. 
+* El archivo original (`dow_jones_index.data`) se encuentra en la carpeta `data/` del repositorio.
 
-El dataset contiene registros semanales del precio de cierre de 30 empresas listadas en el Dow Jones durante 2011. El archivo original (`dow_jones_index.data`) se encuentra en la carpeta `data/` del repositorio.
+## Estructura del Proyecto
 
----
-
-## Estructura del proyecto
-
-```
+```text
 dow-jones-eda/
-├── data/
+├── Data/
 │   └── dow_jones_index.data
 ├── ProyectoFinal.ipynb
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-```
-
----
 
 ## Contenido del análisis
 
