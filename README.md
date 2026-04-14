@@ -72,9 +72,3 @@ El desarrollo en el notebook abarca las siguientes etapas:
    jupyter notebook ProyectoFinal.ipynb
    ```
 
-## Contacto
-
-Si te interesa este proyecto o deseas conversar sobre análisis de datos, puedes contactarme a través de los siguientes medios:
-
-* **LinkedIn:** [Enlace a tu perfil de LinkedIn]
-* **Email:** [Tu dirección de correo electrónico]
